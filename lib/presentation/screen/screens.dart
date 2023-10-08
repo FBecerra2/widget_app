@@ -1,4 +1,5 @@
 //Archivos de Barril
+export 'package:widget_app/presentation/screen/counter/counter_screen.dart';
 export 'package:widget_app/presentation/screen/snackbar/snackbar_screen.dart';
 export 'package:flutter/material.dart';
 export 'package:widget_app/presentation/screen/animated/animated_screen.dart';
