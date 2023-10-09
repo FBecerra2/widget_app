@@ -54,7 +54,7 @@ class _AppTutorialScreenState extends State<AppTutorialScreen> {
 
   @override
   void dispose() {
-    // TODO: implement dispose es para eliminar los listener que no se usa con StateFul Widget
+    //implement dispose es para eliminar los listener que no se usa con StateFul Widget
     pageViewController.dispose();
     super.dispose();
   }
