@@ -86,7 +86,7 @@ class _ButtonsView extends StatelessWidget {
                   backgroundColor: MaterialStatePropertyAll(colors.primary),
                   iconColor: const MaterialStatePropertyAll(Colors.white)),
             ),
-            //TODO: Custom Button
+            //Custom Button
 
             const CustomButton(),
           ],
